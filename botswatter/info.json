@@ -1,0 +1,10 @@
+{
+  "name": "Botswatter",
+  "author": ["you"],
+  "short": "Image purging and aggressive autoban moderation",
+  "description": "Deletes all image messages in a channel (bypassing the 14-day limit) and instantly bans users who post configured keywords or phrases.",
+  "install_msg": "Botswatter loaded. This cog deletes messages and bans users. Use responsibly.",
+  "requirements": [],
+  "tags": ["moderation", "purge", "automod"],
+  "min_bot_version": "3.5.0"
+}
