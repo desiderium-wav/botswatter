@@ -1,0 +1,4 @@
+from .swat import Botswatter
+
+async def setup(bot):
+    await bot.add_cog(Botswatter(bot))
